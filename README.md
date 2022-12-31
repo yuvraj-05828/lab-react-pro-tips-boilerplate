@@ -20,21 +20,17 @@ As you can see, that ->
 
     2.1  Your form can be very similar to what we have already created in previous lab on `forms`, here is a quick description of the same:
 
-    Your form should have the following fields:
-    
-
+    Your form should have the following fields-
         1. First Name
         2. Last Name
         3. Email
         4. Contacts
-
         At the end of the form, you should have a button named as `Register`. Upon clicking on this button, your form should be get submitted - and a message should pop-up -> `Registration succesfull!` for validation purpose.
 
-        **NOTE:** You should not get `Registration succesfull!` message, if any of the field is empty. If any field is empty, you should give some message/warning. For eg:
+      **NOTE:** You should not get `Registration succesfull!` message, if any of the field is empty. If any field is empty, you should give some message/warning. For eg:
 
-        If I submit the form, without filling out the first-name field, then I should get a message that `Please enter your first name!`.
-
-        Here is demo for your refernce:
+      If I submit the form, without filling out the first-name field, then I should get a message that `Please enter your first name!`.
+      Here is demo for your refernce:
 
 
 ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/form-react.gif)
