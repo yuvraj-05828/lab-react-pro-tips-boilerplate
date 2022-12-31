@@ -36,7 +36,8 @@ As you can see, that ->
 
         Here is demo for your refernce:
 
-        ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/form-react.gif)
+
+![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/form-react.gif)
 
 
 3. If we click on the name of the site (Kalvium) --> we are directed to the Home page.
